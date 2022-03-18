@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions', # tmp memory
     'django.contrib.messages', # display one time notification to the user
     'django.contrib.staticfiles', # surfing static files
-    # Register
+    # Register Apps
     'playground'
 ]
 
